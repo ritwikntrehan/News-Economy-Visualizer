@@ -1,0 +1,79 @@
+[
+  {
+    "id": "midwest",
+    "name": "Midwest",
+    "type": "multi-state",
+    "summary": "Dense manufacturing and logistics corridor.",
+    "relatedSectorIds": [
+      "industrial-machinery",
+      "automotive",
+      "logistics"
+    ]
+  },
+  {
+    "id": "southeast",
+    "name": "Southeast",
+    "type": "multi-state",
+    "summary": "Rapid industrial site development and port growth.",
+    "relatedSectorIds": [
+      "automotive",
+      "construction-materials",
+      "logistics"
+    ]
+  },
+  {
+    "id": "gulf-coast",
+    "name": "Gulf Coast",
+    "type": "multi-state",
+    "summary": "Energy, petrochem, and port-linked industrial activity.",
+    "relatedSectorIds": [
+      "logistics",
+      "construction-materials",
+      "industrial-machinery"
+    ]
+  },
+  {
+    "id": "pennsylvania",
+    "name": "Pennsylvania",
+    "type": "state",
+    "summary": "Manufacturing and federal project exposure.",
+    "relatedSectorIds": [
+      "construction-materials",
+      "industrial-machinery",
+      "biotech-tools"
+    ]
+  },
+  {
+    "id": "ohio",
+    "name": "Ohio",
+    "type": "state",
+    "summary": "Automotive, machinery, and labor-sensitive clusters.",
+    "relatedSectorIds": [
+      "automotive",
+      "industrial-machinery",
+      "logistics"
+    ]
+  },
+  {
+    "id": "texas",
+    "name": "Texas",
+    "type": "state",
+    "summary": "Semiconductor, logistics, and federal grant relevance.",
+    "relatedSectorIds": [
+      "semiconductors",
+      "logistics",
+      "construction-materials"
+    ]
+  },
+  {
+    "id": "california",
+    "name": "California",
+    "type": "state",
+    "summary": "Semiconductor design, ports, and research infrastructure.",
+    "relatedSectorIds": [
+      "semiconductors",
+      "logistics",
+      "biotech-tools"
+    ]
+  }
+]

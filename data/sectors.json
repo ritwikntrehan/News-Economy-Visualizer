@@ -1,0 +1,89 @@
+[
+  {
+    "id": "industrial-machinery",
+    "name": "Industrial Machinery",
+    "summary": "Equipment makers exposed to capex cycles.",
+    "relatedTopicIds": [
+      "manufacturing",
+      "trade"
+    ],
+    "commonEntityIds": [
+      "doe",
+      "commerce",
+      "midwest-manufacturers-council"
+    ]
+  },
+  {
+    "id": "automotive",
+    "name": "Automotive",
+    "summary": "OEM and supplier signals across EV and legacy platforms.",
+    "relatedTopicIds": [
+      "manufacturing",
+      "labor",
+      "trade"
+    ],
+    "commonEntityIds": [
+      "uaw",
+      "ohio-plant-coalition",
+      "port-authority-gulf"
+    ]
+  },
+  {
+    "id": "semiconductors",
+    "name": "Semiconductors",
+    "summary": "Fabrication and packaging activity tied to policy and utility inputs.",
+    "relatedTopicIds": [
+      "manufacturing",
+      "federal-funding",
+      "trade"
+    ],
+    "commonEntityIds": [
+      "commerce",
+      "chip-program-office",
+      "california-energy-board"
+    ]
+  },
+  {
+    "id": "logistics",
+    "name": "Logistics",
+    "summary": "Freight, warehousing, and intermodal throughput indicators.",
+    "relatedTopicIds": [
+      "trade",
+      "labor"
+    ],
+    "commonEntityIds": [
+      "port-authority-gulf",
+      "rail-freight-alliance",
+      "customs-agency"
+    ]
+  },
+  {
+    "id": "construction-materials",
+    "name": "Construction Materials",
+    "summary": "Cement, aggregates, and steel inputs to industrial buildout.",
+    "relatedTopicIds": [
+      "manufacturing",
+      "federal-funding"
+    ],
+    "commonEntityIds": [
+      "dot",
+      "state-infrastructure-office",
+      "pennsylvania-development-board"
+    ]
+  },
+  {
+    "id": "biotech-tools",
+    "name": "Biotech Tools",
+    "summary": "Lab equipment and advanced instrumentation tied to grants and university hubs.",
+    "relatedTopicIds": [
+      "federal-funding",
+      "labor",
+      "manufacturing"
+    ],
+    "commonEntityIds": [
+      "nih",
+      "university-consortium",
+      "texas-innovation-fund"
+    ]
+  }
+]

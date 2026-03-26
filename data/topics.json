@@ -1,0 +1,72 @@
+[
+  {
+    "id": "manufacturing",
+    "name": "Manufacturing",
+    "description": "Signals tied to factory output, capacity additions, and equipment investment.",
+    "trendLabel": "rising",
+    "summary": "Manufacturing signals remain active with mixed cost and labor conditions.",
+    "clusterIds": [
+      "mfg-capacity-midwest",
+      "mfg-pa-materials",
+      "mfg-chip-utilities",
+      "mfg-auto-tooling"
+    ],
+    "relatedTopicIds": [
+      "trade",
+      "labor",
+      "federal-funding"
+    ]
+  },
+  {
+    "id": "trade",
+    "name": "Trade",
+    "description": "Signals tied to ports, customs policy, freight flows, and export demand.",
+    "trendLabel": "mixed",
+    "summary": "Trade signals show route adjustments and inventory normalization patterns.",
+    "clusterIds": [
+      "trade-gulf-routing",
+      "trade-west-port",
+      "trade-auto-parts",
+      "trade-semicon-inputs"
+    ],
+    "relatedTopicIds": [
+      "manufacturing",
+      "labor",
+      "federal-funding"
+    ]
+  },
+  {
+    "id": "labor",
+    "name": "Labor",
+    "description": "Signals tied to hiring, workforce constraints, wage pressure, and union actions.",
+    "trendLabel": "mixed",
+    "summary": "Labor signals vary by region with pockets of training expansion and contract pressure.",
+    "clusterIds": [
+      "labor-ohio-contract",
+      "labor-southeast-training",
+      "labor-gulf-logistics"
+    ],
+    "relatedTopicIds": [
+      "manufacturing",
+      "trade",
+      "federal-funding"
+    ]
+  },
+  {
+    "id": "federal-funding",
+    "name": "Federal Funding",
+    "description": "Signals tied to grants, program disbursement, compliance milestones, and project timing.",
+    "trendLabel": "rising",
+    "summary": "Funding-linked announcements continue to influence project sequencing and local exposure.",
+    "clusterIds": [
+      "ff-semicon-texas",
+      "ff-biotech-pa",
+      "ff-corridor-grants"
+    ],
+    "relatedTopicIds": [
+      "manufacturing",
+      "trade",
+      "labor"
+    ]
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "ex011",
+    "clusterId": "mfg-capacity-midwest",
+    "sectorId": "industrial-machinery",
+    "regionId": "midwest",
+    "label": "cost pressure",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex012",
+    "clusterId": "mfg-capacity-midwest",
+    "sectorId": "automotive",
+    "regionId": "ohio",
+    "label": "capacity support",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex021",
+    "clusterId": "trade-gulf-routing",
+    "sectorId": "logistics",
+    "regionId": "gulf-coast",
+    "label": "cost pressure",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex022",
+    "clusterId": "trade-gulf-routing",
+    "sectorId": "industrial-machinery",
+    "regionId": "texas",
+    "label": "cost pressure",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex031",
+    "clusterId": "labor-ohio-contract",
+    "sectorId": "automotive",
+    "regionId": "ohio",
+    "label": "operational watch",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex032",
+    "clusterId": "labor-ohio-contract",
+    "sectorId": "logistics",
+    "regionId": "midwest",
+    "label": "cost pressure",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex041",
+    "clusterId": "ff-semicon-texas",
+    "sectorId": "semiconductors",
+    "regionId": "texas",
+    "label": "capacity support",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex042",
+    "clusterId": "ff-semicon-texas",
+    "sectorId": "construction-materials",
+    "regionId": "gulf-coast",
+    "label": "cost pressure",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex051",
+    "clusterId": "mfg-pa-materials",
+    "sectorId": "construction-materials",
+    "regionId": "pennsylvania",
+    "label": "operational watch",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex052",
+    "clusterId": "mfg-pa-materials",
+    "sectorId": "industrial-machinery",
+    "regionId": "midwest",
+    "label": "operational watch",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex061",
+    "clusterId": "trade-west-port",
+    "sectorId": "logistics",
+    "regionId": "california",
+    "label": "operational watch",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex062",
+    "clusterId": "trade-west-port",
+    "sectorId": "semiconductors",
+    "regionId": "gulf-coast",
+    "label": "operational watch",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex071",
+    "clusterId": "labor-southeast-training",
+    "sectorId": "industrial-machinery",
+    "regionId": "southeast",
+    "label": "capacity support",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex072",
+    "clusterId": "labor-southeast-training",
+    "sectorId": "automotive",
+    "regionId": "texas",
+    "label": "cost pressure",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex081",
+    "clusterId": "ff-biotech-pa",
+    "sectorId": "biotech-tools",
+    "regionId": "pennsylvania",
+    "label": "cost pressure",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex082",
+    "clusterId": "ff-biotech-pa",
+    "sectorId": "semiconductors",
+    "regionId": "california",
+    "label": "operational watch",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex091",
+    "clusterId": "mfg-chip-utilities",
+    "sectorId": "semiconductors",
+    "regionId": "texas",
+    "label": "operational watch",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex092",
+    "clusterId": "mfg-chip-utilities",
+    "sectorId": "construction-materials",
+    "regionId": "california",
+    "label": "cost pressure",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex101",
+    "clusterId": "trade-auto-parts",
+    "sectorId": "automotive",
+    "regionId": "midwest",
+    "label": "capacity support",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex102",
+    "clusterId": "trade-auto-parts",
+    "sectorId": "logistics",
+    "regionId": "gulf-coast",
+    "label": "operational watch",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex111",
+    "clusterId": "labor-gulf-logistics",
+    "sectorId": "logistics",
+    "regionId": "gulf-coast",
+    "label": "operational watch",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex112",
+    "clusterId": "labor-gulf-logistics",
+    "sectorId": "construction-materials",
+    "regionId": "southeast",
+    "label": "operational watch",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex121",
+    "clusterId": "ff-corridor-grants",
+    "sectorId": "logistics",
+    "regionId": "midwest",
+    "label": "capacity support",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex122",
+    "clusterId": "ff-corridor-grants",
+    "sectorId": "construction-materials",
+    "regionId": "southeast",
+    "label": "operational watch",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex131",
+    "clusterId": "mfg-auto-tooling",
+    "sectorId": "automotive",
+    "regionId": "midwest",
+    "label": "capacity support",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex132",
+    "clusterId": "mfg-auto-tooling",
+    "sectorId": "industrial-machinery",
+    "regionId": "ohio",
+    "label": "capacity support",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex141",
+    "clusterId": "trade-semicon-inputs",
+    "sectorId": "semiconductors",
+    "regionId": "california",
+    "label": "cost pressure",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  },
+  {
+    "id": "ex142",
+    "clusterId": "trade-semicon-inputs",
+    "sectorId": "logistics",
+    "regionId": "texas",
+    "label": "capacity support",
+    "rationale": "Likely first-order exposure from project timing, labor availability, and logistics conditions in this region."
+  }
+]

@@ -1,0 +1,976 @@
+[
+  {
+    "id": "a011",
+    "title": "Midwest machinery suppliers report longer lead-time normalization - bulletin 1",
+    "source": "Policy Briefing Service",
+    "publishedAt": "2026-03-02",
+    "topicIds": [
+      "manufacturing",
+      "labor"
+    ],
+    "sectorIds": [
+      "industrial-machinery",
+      "automotive"
+    ],
+    "regionIds": [
+      "midwest",
+      "ohio"
+    ],
+    "entityIds": [
+      "doe",
+      "midwest-manufacturers-council"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a012",
+    "title": "Midwest machinery suppliers report longer lead-time normalization - bulletin 2",
+    "source": "Policy Briefing Service",
+    "publishedAt": "2026-03-03",
+    "topicIds": [
+      "manufacturing"
+    ],
+    "sectorIds": [
+      "industrial-machinery",
+      "automotive"
+    ],
+    "regionIds": [
+      "midwest",
+      "ohio"
+    ],
+    "entityIds": [
+      "doe",
+      "midwest-manufacturers-council"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "watch"
+  },
+  {
+    "id": "a013",
+    "title": "Midwest machinery suppliers report longer lead-time normalization - bulletin 3",
+    "source": "Policy Briefing Service",
+    "publishedAt": "2026-03-04",
+    "topicIds": [
+      "manufacturing"
+    ],
+    "sectorIds": [
+      "industrial-machinery",
+      "automotive"
+    ],
+    "regionIds": [
+      "midwest",
+      "ohio"
+    ],
+    "entityIds": [
+      "doe",
+      "midwest-manufacturers-council"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a021",
+    "title": "Gulf Coast port routing shifts after customs staffing changes - bulletin 1",
+    "source": "Regional Industry Wire",
+    "publishedAt": "2026-03-03",
+    "topicIds": [
+      "trade"
+    ],
+    "sectorIds": [
+      "logistics",
+      "industrial-machinery"
+    ],
+    "regionIds": [
+      "gulf-coast",
+      "texas"
+    ],
+    "entityIds": [
+      "port-authority-gulf",
+      "customs-agency"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "watch"
+  },
+  {
+    "id": "a022",
+    "title": "Gulf Coast port routing shifts after customs staffing changes - bulletin 2",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-04",
+    "topicIds": [
+      "trade",
+      "federal-funding"
+    ],
+    "sectorIds": [
+      "logistics",
+      "industrial-machinery"
+    ],
+    "regionIds": [
+      "gulf-coast",
+      "texas"
+    ],
+    "entityIds": [
+      "port-authority-gulf",
+      "customs-agency"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a023",
+    "title": "Gulf Coast port routing shifts after customs staffing changes - bulletin 3",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-05",
+    "topicIds": [
+      "trade"
+    ],
+    "sectorIds": [
+      "logistics",
+      "industrial-machinery"
+    ],
+    "regionIds": [
+      "gulf-coast",
+      "texas"
+    ],
+    "entityIds": [
+      "port-authority-gulf",
+      "customs-agency"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "supportive"
+  },
+  {
+    "id": "a031",
+    "title": "Ohio automotive contract talks increase scheduling uncertainty - bulletin 1",
+    "source": "Regional Industry Wire",
+    "publishedAt": "2026-03-04",
+    "topicIds": [
+      "labor"
+    ],
+    "sectorIds": [
+      "automotive",
+      "logistics"
+    ],
+    "regionIds": [
+      "ohio",
+      "midwest"
+    ],
+    "entityIds": [
+      "uaw",
+      "ohio-plant-coalition"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "supportive"
+  },
+  {
+    "id": "a032",
+    "title": "Ohio automotive contract talks increase scheduling uncertainty - bulletin 2",
+    "source": "Freight Outlook Journal",
+    "publishedAt": "2026-03-05",
+    "topicIds": [
+      "labor"
+    ],
+    "sectorIds": [
+      "automotive",
+      "logistics"
+    ],
+    "regionIds": [
+      "ohio",
+      "midwest"
+    ],
+    "entityIds": [
+      "uaw",
+      "ohio-plant-coalition"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "supportive"
+  },
+  {
+    "id": "a033",
+    "title": "Ohio automotive contract talks increase scheduling uncertainty - bulletin 3",
+    "source": "Freight Outlook Journal",
+    "publishedAt": "2026-03-06",
+    "topicIds": [
+      "labor"
+    ],
+    "sectorIds": [
+      "automotive",
+      "logistics"
+    ],
+    "regionIds": [
+      "ohio",
+      "midwest"
+    ],
+    "entityIds": [
+      "uaw",
+      "ohio-plant-coalition"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "supportive"
+  },
+  {
+    "id": "a041",
+    "title": "Texas semiconductor grant milestones move to implementation phase - bulletin 1",
+    "source": "Freight Outlook Journal",
+    "publishedAt": "2026-03-05",
+    "topicIds": [
+      "federal-funding"
+    ],
+    "sectorIds": [
+      "semiconductors",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "texas",
+      "gulf-coast"
+    ],
+    "entityIds": [
+      "chip-program-office",
+      "commerce"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "watch"
+  },
+  {
+    "id": "a042",
+    "title": "Texas semiconductor grant milestones move to implementation phase - bulletin 2",
+    "source": "Regional Industry Wire",
+    "publishedAt": "2026-03-06",
+    "topicIds": [
+      "federal-funding"
+    ],
+    "sectorIds": [
+      "semiconductors",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "texas",
+      "gulf-coast"
+    ],
+    "entityIds": [
+      "chip-program-office",
+      "commerce"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "watch"
+  },
+  {
+    "id": "a043",
+    "title": "Texas semiconductor grant milestones move to implementation phase - bulletin 3",
+    "source": "Policy Briefing Service",
+    "publishedAt": "2026-03-07",
+    "topicIds": [
+      "federal-funding"
+    ],
+    "sectorIds": [
+      "semiconductors",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "texas",
+      "gulf-coast"
+    ],
+    "entityIds": [
+      "chip-program-office",
+      "commerce"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "watch"
+  },
+  {
+    "id": "a051",
+    "title": "Pennsylvania materials producers signal project backlog resilience - bulletin 1",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-06",
+    "topicIds": [
+      "manufacturing",
+      "labor"
+    ],
+    "sectorIds": [
+      "construction-materials",
+      "industrial-machinery"
+    ],
+    "regionIds": [
+      "pennsylvania",
+      "midwest"
+    ],
+    "entityIds": [
+      "pennsylvania-development-board",
+      "state-infrastructure-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a052",
+    "title": "Pennsylvania materials producers signal project backlog resilience - bulletin 2",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-07",
+    "topicIds": [
+      "manufacturing"
+    ],
+    "sectorIds": [
+      "construction-materials",
+      "industrial-machinery"
+    ],
+    "regionIds": [
+      "pennsylvania",
+      "midwest"
+    ],
+    "entityIds": [
+      "pennsylvania-development-board",
+      "state-infrastructure-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a053",
+    "title": "Pennsylvania materials producers signal project backlog resilience - bulletin 3",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-08",
+    "topicIds": [
+      "manufacturing"
+    ],
+    "sectorIds": [
+      "construction-materials",
+      "industrial-machinery"
+    ],
+    "regionIds": [
+      "pennsylvania",
+      "midwest"
+    ],
+    "entityIds": [
+      "pennsylvania-development-board",
+      "state-infrastructure-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "watch"
+  },
+  {
+    "id": "a061",
+    "title": "California container dwell times improve with rail coordination - bulletin 1",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-07",
+    "topicIds": [
+      "trade"
+    ],
+    "sectorIds": [
+      "logistics",
+      "semiconductors"
+    ],
+    "regionIds": [
+      "california",
+      "gulf-coast"
+    ],
+    "entityIds": [
+      "rail-freight-alliance",
+      "port-authority-gulf"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a062",
+    "title": "California container dwell times improve with rail coordination - bulletin 2",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-08",
+    "topicIds": [
+      "trade",
+      "federal-funding"
+    ],
+    "sectorIds": [
+      "logistics",
+      "semiconductors"
+    ],
+    "regionIds": [
+      "california",
+      "gulf-coast"
+    ],
+    "entityIds": [
+      "rail-freight-alliance",
+      "port-authority-gulf"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a063",
+    "title": "California container dwell times improve with rail coordination - bulletin 3",
+    "source": "Policy Briefing Service",
+    "publishedAt": "2026-03-09",
+    "topicIds": [
+      "trade"
+    ],
+    "sectorIds": [
+      "logistics",
+      "semiconductors"
+    ],
+    "regionIds": [
+      "california",
+      "gulf-coast"
+    ],
+    "entityIds": [
+      "rail-freight-alliance",
+      "port-authority-gulf"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a071",
+    "title": "Southeast workforce training consortia expand factory pipelines - bulletin 1",
+    "source": "Regional Industry Wire",
+    "publishedAt": "2026-03-08",
+    "topicIds": [
+      "labor"
+    ],
+    "sectorIds": [
+      "industrial-machinery",
+      "automotive"
+    ],
+    "regionIds": [
+      "southeast",
+      "texas"
+    ],
+    "entityIds": [
+      "university-consortium",
+      "state-infrastructure-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "supportive"
+  },
+  {
+    "id": "a072",
+    "title": "Southeast workforce training consortia expand factory pipelines - bulletin 2",
+    "source": "Freight Outlook Journal",
+    "publishedAt": "2026-03-09",
+    "topicIds": [
+      "labor"
+    ],
+    "sectorIds": [
+      "industrial-machinery",
+      "automotive"
+    ],
+    "regionIds": [
+      "southeast",
+      "texas"
+    ],
+    "entityIds": [
+      "university-consortium",
+      "state-infrastructure-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a073",
+    "title": "Southeast workforce training consortia expand factory pipelines - bulletin 3",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-10",
+    "topicIds": [
+      "labor"
+    ],
+    "sectorIds": [
+      "industrial-machinery",
+      "automotive"
+    ],
+    "regionIds": [
+      "southeast",
+      "texas"
+    ],
+    "entityIds": [
+      "university-consortium",
+      "state-infrastructure-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a081",
+    "title": "Federal lab-equipment awards concentrate around Pennsylvania and California hubs - bulletin 1",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-09",
+    "topicIds": [
+      "federal-funding"
+    ],
+    "sectorIds": [
+      "biotech-tools",
+      "semiconductors"
+    ],
+    "regionIds": [
+      "pennsylvania",
+      "california"
+    ],
+    "entityIds": [
+      "nih",
+      "commerce"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "watch"
+  },
+  {
+    "id": "a082",
+    "title": "Federal lab-equipment awards concentrate around Pennsylvania and California hubs - bulletin 2",
+    "source": "Regional Industry Wire",
+    "publishedAt": "2026-03-10",
+    "topicIds": [
+      "federal-funding"
+    ],
+    "sectorIds": [
+      "biotech-tools",
+      "semiconductors"
+    ],
+    "regionIds": [
+      "pennsylvania",
+      "california"
+    ],
+    "entityIds": [
+      "nih",
+      "commerce"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a083",
+    "title": "Federal lab-equipment awards concentrate around Pennsylvania and California hubs - bulletin 3",
+    "source": "Regional Industry Wire",
+    "publishedAt": "2026-03-11",
+    "topicIds": [
+      "federal-funding"
+    ],
+    "sectorIds": [
+      "biotech-tools",
+      "semiconductors"
+    ],
+    "regionIds": [
+      "pennsylvania",
+      "california"
+    ],
+    "entityIds": [
+      "nih",
+      "commerce"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "supportive"
+  },
+  {
+    "id": "a091",
+    "title": "Utility reliability discussions shape semiconductor ramp timelines - bulletin 1",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-10",
+    "topicIds": [
+      "manufacturing",
+      "labor"
+    ],
+    "sectorIds": [
+      "semiconductors",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "texas",
+      "california"
+    ],
+    "entityIds": [
+      "california-energy-board",
+      "chip-program-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a092",
+    "title": "Utility reliability discussions shape semiconductor ramp timelines - bulletin 2",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-11",
+    "topicIds": [
+      "manufacturing"
+    ],
+    "sectorIds": [
+      "semiconductors",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "texas",
+      "california"
+    ],
+    "entityIds": [
+      "california-energy-board",
+      "chip-program-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "watch"
+  },
+  {
+    "id": "a093",
+    "title": "Utility reliability discussions shape semiconductor ramp timelines - bulletin 3",
+    "source": "Policy Briefing Service",
+    "publishedAt": "2026-03-12",
+    "topicIds": [
+      "manufacturing"
+    ],
+    "sectorIds": [
+      "semiconductors",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "texas",
+      "california"
+    ],
+    "entityIds": [
+      "california-energy-board",
+      "chip-program-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a101",
+    "title": "Auto-parts import inspections add variability to replenishment cycles - bulletin 1",
+    "source": "Freight Outlook Journal",
+    "publishedAt": "2026-03-11",
+    "topicIds": [
+      "trade"
+    ],
+    "sectorIds": [
+      "automotive",
+      "logistics"
+    ],
+    "regionIds": [
+      "midwest",
+      "gulf-coast"
+    ],
+    "entityIds": [
+      "customs-agency",
+      "port-authority-gulf"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a102",
+    "title": "Auto-parts import inspections add variability to replenishment cycles - bulletin 2",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-12",
+    "topicIds": [
+      "trade",
+      "federal-funding"
+    ],
+    "sectorIds": [
+      "automotive",
+      "logistics"
+    ],
+    "regionIds": [
+      "midwest",
+      "gulf-coast"
+    ],
+    "entityIds": [
+      "customs-agency",
+      "port-authority-gulf"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "supportive"
+  },
+  {
+    "id": "a103",
+    "title": "Auto-parts import inspections add variability to replenishment cycles - bulletin 3",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-13",
+    "topicIds": [
+      "trade"
+    ],
+    "sectorIds": [
+      "automotive",
+      "logistics"
+    ],
+    "regionIds": [
+      "midwest",
+      "gulf-coast"
+    ],
+    "entityIds": [
+      "customs-agency",
+      "port-authority-gulf"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "supportive"
+  },
+  {
+    "id": "a111",
+    "title": "Gulf logistics hiring remains uneven across warehouse markets - bulletin 1",
+    "source": "Freight Outlook Journal",
+    "publishedAt": "2026-03-12",
+    "topicIds": [
+      "labor"
+    ],
+    "sectorIds": [
+      "logistics",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "gulf-coast",
+      "southeast"
+    ],
+    "entityIds": [
+      "rail-freight-alliance",
+      "state-infrastructure-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "watch"
+  },
+  {
+    "id": "a112",
+    "title": "Gulf logistics hiring remains uneven across warehouse markets - bulletin 2",
+    "source": "Policy Briefing Service",
+    "publishedAt": "2026-03-13",
+    "topicIds": [
+      "labor"
+    ],
+    "sectorIds": [
+      "logistics",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "gulf-coast",
+      "southeast"
+    ],
+    "entityIds": [
+      "rail-freight-alliance",
+      "state-infrastructure-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "watch"
+  },
+  {
+    "id": "a113",
+    "title": "Gulf logistics hiring remains uneven across warehouse markets - bulletin 3",
+    "source": "Policy Briefing Service",
+    "publishedAt": "2026-03-14",
+    "topicIds": [
+      "labor"
+    ],
+    "sectorIds": [
+      "logistics",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "gulf-coast",
+      "southeast"
+    ],
+    "entityIds": [
+      "rail-freight-alliance",
+      "state-infrastructure-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a121",
+    "title": "Freight corridor grants align with regional manufacturing buildouts - bulletin 1",
+    "source": "Policy Briefing Service",
+    "publishedAt": "2026-03-13",
+    "topicIds": [
+      "federal-funding"
+    ],
+    "sectorIds": [
+      "logistics",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "midwest",
+      "southeast"
+    ],
+    "entityIds": [
+      "dot",
+      "state-infrastructure-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "supportive"
+  },
+  {
+    "id": "a122",
+    "title": "Freight corridor grants align with regional manufacturing buildouts - bulletin 2",
+    "source": "Regional Industry Wire",
+    "publishedAt": "2026-03-14",
+    "topicIds": [
+      "federal-funding"
+    ],
+    "sectorIds": [
+      "logistics",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "midwest",
+      "southeast"
+    ],
+    "entityIds": [
+      "dot",
+      "state-infrastructure-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "supportive"
+  },
+  {
+    "id": "a123",
+    "title": "Freight corridor grants align with regional manufacturing buildouts - bulletin 3",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-15",
+    "topicIds": [
+      "federal-funding"
+    ],
+    "sectorIds": [
+      "logistics",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "midwest",
+      "southeast"
+    ],
+    "entityIds": [
+      "dot",
+      "state-infrastructure-office"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a131",
+    "title": "Automotive tooling orders recover in selective Midwest segments - bulletin 1",
+    "source": "Policy Briefing Service",
+    "publishedAt": "2026-03-14",
+    "topicIds": [
+      "manufacturing",
+      "labor"
+    ],
+    "sectorIds": [
+      "automotive",
+      "industrial-machinery"
+    ],
+    "regionIds": [
+      "midwest",
+      "ohio"
+    ],
+    "entityIds": [
+      "ohio-plant-coalition",
+      "midwest-manufacturers-council"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "watch"
+  },
+  {
+    "id": "a132",
+    "title": "Automotive tooling orders recover in selective Midwest segments - bulletin 2",
+    "source": "Public Business Desk",
+    "publishedAt": "2026-03-15",
+    "topicIds": [
+      "manufacturing"
+    ],
+    "sectorIds": [
+      "automotive",
+      "industrial-machinery"
+    ],
+    "regionIds": [
+      "midwest",
+      "ohio"
+    ],
+    "entityIds": [
+      "ohio-plant-coalition",
+      "midwest-manufacturers-council"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "supportive"
+  },
+  {
+    "id": "a133",
+    "title": "Automotive tooling orders recover in selective Midwest segments - bulletin 3",
+    "source": "Regional Industry Wire",
+    "publishedAt": "2026-03-16",
+    "topicIds": [
+      "manufacturing"
+    ],
+    "sectorIds": [
+      "automotive",
+      "industrial-machinery"
+    ],
+    "regionIds": [
+      "midwest",
+      "ohio"
+    ],
+    "entityIds": [
+      "ohio-plant-coalition",
+      "midwest-manufacturers-council"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "watch"
+  },
+  {
+    "id": "a141",
+    "title": "Semiconductor input shipments show mixed transit volatility - bulletin 1",
+    "source": "Freight Outlook Journal",
+    "publishedAt": "2026-03-15",
+    "topicIds": [
+      "trade"
+    ],
+    "sectorIds": [
+      "semiconductors",
+      "logistics"
+    ],
+    "regionIds": [
+      "california",
+      "texas"
+    ],
+    "entityIds": [
+      "customs-agency",
+      "rail-freight-alliance"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  },
+  {
+    "id": "a142",
+    "title": "Semiconductor input shipments show mixed transit volatility - bulletin 2",
+    "source": "Freight Outlook Journal",
+    "publishedAt": "2026-03-16",
+    "topicIds": [
+      "trade",
+      "federal-funding"
+    ],
+    "sectorIds": [
+      "semiconductors",
+      "logistics"
+    ],
+    "regionIds": [
+      "california",
+      "texas"
+    ],
+    "entityIds": [
+      "customs-agency",
+      "rail-freight-alliance"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "watch"
+  },
+  {
+    "id": "a143",
+    "title": "Semiconductor input shipments show mixed transit volatility - bulletin 3",
+    "source": "Policy Briefing Service",
+    "publishedAt": "2026-03-17",
+    "topicIds": [
+      "trade"
+    ],
+    "sectorIds": [
+      "semiconductors",
+      "logistics"
+    ],
+    "regionIds": [
+      "california",
+      "texas"
+    ],
+    "entityIds": [
+      "customs-agency",
+      "rail-freight-alliance"
+    ],
+    "summary": "Sample headline grouped into a cluster to illustrate signal direction, affected sectors, and region relevance.",
+    "sentimentLabel": "pressure"
+  }
+]

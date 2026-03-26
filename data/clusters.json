@@ -1,0 +1,466 @@
+[
+  {
+    "id": "mfg-capacity-midwest",
+    "title": "Midwest machinery suppliers report longer lead-time normalization",
+    "topicId": "manufacturing",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "elevated",
+    "dateRange": "Mar 01\u2013Mar 04, 2026",
+    "articleIds": [
+      "a011",
+      "a012",
+      "a013"
+    ],
+    "entityIds": [
+      "doe",
+      "midwest-manufacturers-council"
+    ],
+    "sectorIds": [
+      "industrial-machinery",
+      "automotive"
+    ],
+    "regionIds": [
+      "midwest",
+      "ohio"
+    ],
+    "exposureIds": [
+      "ex011",
+      "ex012"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  },
+  {
+    "id": "trade-gulf-routing",
+    "title": "Gulf Coast port routing shifts after customs staffing changes",
+    "topicId": "trade",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "mixed",
+    "dateRange": "Mar 02\u2013Mar 05, 2026",
+    "articleIds": [
+      "a021",
+      "a022",
+      "a023"
+    ],
+    "entityIds": [
+      "port-authority-gulf",
+      "customs-agency"
+    ],
+    "sectorIds": [
+      "logistics",
+      "industrial-machinery"
+    ],
+    "regionIds": [
+      "gulf-coast",
+      "texas"
+    ],
+    "exposureIds": [
+      "ex021",
+      "ex022"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  },
+  {
+    "id": "labor-ohio-contract",
+    "title": "Ohio automotive contract talks increase scheduling uncertainty",
+    "topicId": "labor",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "elevated",
+    "dateRange": "Mar 03\u2013Mar 06, 2026",
+    "articleIds": [
+      "a031",
+      "a032",
+      "a033"
+    ],
+    "entityIds": [
+      "uaw",
+      "ohio-plant-coalition"
+    ],
+    "sectorIds": [
+      "automotive",
+      "logistics"
+    ],
+    "regionIds": [
+      "ohio",
+      "midwest"
+    ],
+    "exposureIds": [
+      "ex031",
+      "ex032"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  },
+  {
+    "id": "ff-semicon-texas",
+    "title": "Texas semiconductor grant milestones move to implementation phase",
+    "topicId": "federal-funding",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "mixed",
+    "dateRange": "Mar 04\u2013Mar 07, 2026",
+    "articleIds": [
+      "a041",
+      "a042",
+      "a043"
+    ],
+    "entityIds": [
+      "chip-program-office",
+      "commerce",
+      "texas-innovation-fund"
+    ],
+    "sectorIds": [
+      "semiconductors",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "texas",
+      "gulf-coast"
+    ],
+    "exposureIds": [
+      "ex041",
+      "ex042"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  },
+  {
+    "id": "mfg-pa-materials",
+    "title": "Pennsylvania materials producers signal project backlog resilience",
+    "topicId": "manufacturing",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "mixed",
+    "dateRange": "Mar 05\u2013Mar 08, 2026",
+    "articleIds": [
+      "a051",
+      "a052",
+      "a053"
+    ],
+    "entityIds": [
+      "pennsylvania-development-board",
+      "state-infrastructure-office"
+    ],
+    "sectorIds": [
+      "construction-materials",
+      "industrial-machinery"
+    ],
+    "regionIds": [
+      "pennsylvania",
+      "midwest"
+    ],
+    "exposureIds": [
+      "ex051",
+      "ex052"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  },
+  {
+    "id": "trade-west-port",
+    "title": "California container dwell times improve with rail coordination",
+    "topicId": "trade",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "elevated",
+    "dateRange": "Mar 06\u2013Mar 09, 2026",
+    "articleIds": [
+      "a061",
+      "a062",
+      "a063"
+    ],
+    "entityIds": [
+      "rail-freight-alliance",
+      "port-authority-gulf"
+    ],
+    "sectorIds": [
+      "logistics",
+      "semiconductors"
+    ],
+    "regionIds": [
+      "california",
+      "gulf-coast"
+    ],
+    "exposureIds": [
+      "ex061",
+      "ex062"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  },
+  {
+    "id": "labor-southeast-training",
+    "title": "Southeast workforce training consortia expand factory pipelines",
+    "topicId": "labor",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "elevated",
+    "dateRange": "Mar 07\u2013Mar 10, 2026",
+    "articleIds": [
+      "a071",
+      "a072",
+      "a073"
+    ],
+    "entityIds": [
+      "university-consortium",
+      "state-infrastructure-office"
+    ],
+    "sectorIds": [
+      "industrial-machinery",
+      "automotive"
+    ],
+    "regionIds": [
+      "southeast",
+      "texas"
+    ],
+    "exposureIds": [
+      "ex071",
+      "ex072"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  },
+  {
+    "id": "ff-biotech-pa",
+    "title": "Federal lab-equipment awards concentrate around Pennsylvania and California hubs",
+    "topicId": "federal-funding",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "elevated",
+    "dateRange": "Mar 08\u2013Mar 11, 2026",
+    "articleIds": [
+      "a081",
+      "a082",
+      "a083"
+    ],
+    "entityIds": [
+      "nih",
+      "commerce",
+      "university-consortium"
+    ],
+    "sectorIds": [
+      "biotech-tools",
+      "semiconductors"
+    ],
+    "regionIds": [
+      "pennsylvania",
+      "california"
+    ],
+    "exposureIds": [
+      "ex081",
+      "ex082"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  },
+  {
+    "id": "mfg-chip-utilities",
+    "title": "Utility reliability discussions shape semiconductor ramp timelines",
+    "topicId": "manufacturing",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "mixed",
+    "dateRange": "Mar 09\u2013Mar 12, 2026",
+    "articleIds": [
+      "a091",
+      "a092",
+      "a093"
+    ],
+    "entityIds": [
+      "california-energy-board",
+      "chip-program-office"
+    ],
+    "sectorIds": [
+      "semiconductors",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "texas",
+      "california"
+    ],
+    "exposureIds": [
+      "ex091",
+      "ex092"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  },
+  {
+    "id": "trade-auto-parts",
+    "title": "Auto-parts import inspections add variability to replenishment cycles",
+    "topicId": "trade",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "elevated",
+    "dateRange": "Mar 10\u2013Mar 13, 2026",
+    "articleIds": [
+      "a101",
+      "a102",
+      "a103"
+    ],
+    "entityIds": [
+      "customs-agency",
+      "port-authority-gulf"
+    ],
+    "sectorIds": [
+      "automotive",
+      "logistics"
+    ],
+    "regionIds": [
+      "midwest",
+      "gulf-coast"
+    ],
+    "exposureIds": [
+      "ex101",
+      "ex102"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  },
+  {
+    "id": "labor-gulf-logistics",
+    "title": "Gulf logistics hiring remains uneven across warehouse markets",
+    "topicId": "labor",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "mixed",
+    "dateRange": "Mar 11\u2013Mar 14, 2026",
+    "articleIds": [
+      "a111",
+      "a112",
+      "a113"
+    ],
+    "entityIds": [
+      "rail-freight-alliance",
+      "state-infrastructure-office"
+    ],
+    "sectorIds": [
+      "logistics",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "gulf-coast",
+      "southeast"
+    ],
+    "exposureIds": [
+      "ex111",
+      "ex112"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  },
+  {
+    "id": "ff-corridor-grants",
+    "title": "Freight corridor grants align with regional manufacturing buildouts",
+    "topicId": "federal-funding",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "mixed",
+    "dateRange": "Mar 12\u2013Mar 15, 2026",
+    "articleIds": [
+      "a121",
+      "a122",
+      "a123"
+    ],
+    "entityIds": [
+      "dot",
+      "state-infrastructure-office"
+    ],
+    "sectorIds": [
+      "logistics",
+      "construction-materials"
+    ],
+    "regionIds": [
+      "midwest",
+      "southeast"
+    ],
+    "exposureIds": [
+      "ex121",
+      "ex122"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  },
+  {
+    "id": "mfg-auto-tooling",
+    "title": "Automotive tooling orders recover in selective Midwest segments",
+    "topicId": "manufacturing",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "stabilizing",
+    "dateRange": "Mar 13\u2013Mar 16, 2026",
+    "articleIds": [
+      "a131",
+      "a132",
+      "a133"
+    ],
+    "entityIds": [
+      "ohio-plant-coalition",
+      "midwest-manufacturers-council"
+    ],
+    "sectorIds": [
+      "automotive",
+      "industrial-machinery"
+    ],
+    "regionIds": [
+      "midwest",
+      "ohio"
+    ],
+    "exposureIds": [
+      "ex131",
+      "ex132"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  },
+  {
+    "id": "trade-semicon-inputs",
+    "title": "Semiconductor input shipments show mixed transit volatility",
+    "topicId": "trade",
+    "summary": "Clustered events indicate a directional signal with practical relevance for operators tracking sector exposure and regional execution risk.",
+    "directionLabel": "mixed",
+    "dateRange": "Mar 14\u2013Mar 17, 2026",
+    "articleIds": [
+      "a141",
+      "a142",
+      "a143"
+    ],
+    "entityIds": [
+      "customs-agency",
+      "rail-freight-alliance"
+    ],
+    "sectorIds": [
+      "semiconductors",
+      "logistics"
+    ],
+    "regionIds": [
+      "california",
+      "texas"
+    ],
+    "exposureIds": [
+      "ex141",
+      "ex142"
+    ],
+    "caveats": [
+      "Signals are based on curated sample records.",
+      "Exposure labels indicate relevance, not deterministic impact."
+    ]
+  }
+]
