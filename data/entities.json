@@ -1,0 +1,98 @@
+[
+  {
+    "id": "commerce",
+    "name": "U.S. Department of Commerce",
+    "type": "agency",
+    "summary": "Industrial policy and grant administration signals."
+  },
+  {
+    "id": "doe",
+    "name": "U.S. Department of Energy",
+    "type": "agency",
+    "summary": "Energy and manufacturing program signals."
+  },
+  {
+    "id": "dot",
+    "name": "U.S. Department of Transportation",
+    "type": "agency",
+    "summary": "Infrastructure and freight corridor signals."
+  },
+  {
+    "id": "uaw",
+    "name": "United Auto Workers",
+    "type": "labor organization",
+    "summary": "Labor contract and facility action signals."
+  },
+  {
+    "id": "chip-program-office",
+    "name": "CHIPS Program Office",
+    "type": "program office",
+    "summary": "Semiconductor funding milestones."
+  },
+  {
+    "id": "port-authority-gulf",
+    "name": "Gulf Port Authority Network",
+    "type": "infrastructure",
+    "summary": "Port throughput and vessel scheduling signals."
+  },
+  {
+    "id": "rail-freight-alliance",
+    "name": "Rail Freight Alliance",
+    "type": "industry group",
+    "summary": "Intermodal and rail capacity signals."
+  },
+  {
+    "id": "customs-agency",
+    "name": "U.S. Customs and Border Protection",
+    "type": "agency",
+    "summary": "Import processing and inspection signals."
+  },
+  {
+    "id": "state-infrastructure-office",
+    "name": "State Infrastructure Offices Consortium",
+    "type": "government network",
+    "summary": "State-level project implementation signals."
+  },
+  {
+    "id": "pennsylvania-development-board",
+    "name": "Pennsylvania Development Board",
+    "type": "state entity",
+    "summary": "State economic development project tracking."
+  },
+  {
+    "id": "ohio-plant-coalition",
+    "name": "Ohio Plant Coalition",
+    "type": "industry coalition",
+    "summary": "Plant utilization and workforce coordination signals."
+  },
+  {
+    "id": "california-energy-board",
+    "name": "California Energy Board",
+    "type": "state entity",
+    "summary": "Power and permitting signals for industrial sites."
+  },
+  {
+    "id": "nih",
+    "name": "National Institutes of Health",
+    "type": "agency",
+    "summary": "Biomedical research funding signals."
+  },
+  {
+    "id": "university-consortium",
+    "name": "Applied Manufacturing University Consortium",
+    "type": "education network",
+    "summary": "Workforce training and innovation collaboration signals."
+  },
+  {
+    "id": "texas-innovation-fund",
+    "name": "Texas Innovation Fund",
+    "type": "state program",
+    "summary": "State co-funding signals for strategic industries."
+  },
+  {
+    "id": "midwest-manufacturers-council",
+    "name": "Midwest Manufacturers Council",
+    "type": "industry group",
+    "summary": "Regional production and procurement signals."
+  }
+]
